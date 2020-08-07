@@ -1,21 +1,13 @@
 ---
-title:  "github.io 블로그 시작하기"
-excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
+title:  "소리와 사람의 음성 체계"
+excerpt: "소리와 사람의 음성 체계에 대해 학습한다."
 
 categories:
-  - Blog
-tags:
-  - Blog
-  - Github
-last_modified_at: 2019-04-13T08:06:00-05:00
+  - Basics
+
+last_modified_at: 2020-08-07T17:35:00-05:00
 ---
 
-GitHub Blog 서비스인 github.io 블로그 시작하기로 했다.
-GitHub Blog 서비스의 이름은 Pages이다.
+## 1. 소리
 
-Pages가 다른 블로그 플랫폼 보다 편한 것 같아서 마음에 든다.
-다른 사람들도 같이 많이 사용했으면 좋겠다는 생각이 든다.
-
-YFM에서 정의한 제목을 이중 괄호 구문으로 본문에 추가할 수 있다.
-이 글의 제목은 {{ page.title }}이고
-마지막으로 수정된 시간은 {{ page.last_modified_at }}이다.
+소리는 

@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Dylan Lim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "음성 신호 처리에 대해 공부한 내용을 공유합니다."
+  bio              : "study of speech processing"
   location         : "South Korea"
   email            :
   links:
@@ -207,7 +207,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 3 # amount of posts to show
 paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -242,9 +242,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
