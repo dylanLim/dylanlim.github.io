@@ -35,3 +35,7 @@ last_modified_at: 2020-08-07T17:35:00-05:00
 ![eq_1.2](https://latex.codecogs.com/svg.latex?SPL(dB)%20=%2020log_{10}{(\frac{P}{P0})}){: .align-center}
 
 여기서 P는 주어진 소리의 절대적인 음압을 측정한 값이고, P0은 사람이 들을 수 있는 최소 음압이다. 만약, P=P0 라면 해당 소리는 0 dB의 소리이며, 우리가 일반적으로 대화하는 소리의 음압은 대략 60dB이다.
+
+## 레퍼런스
+[1] Spoken Language Processing - A Guide to Theory, Algorithm, and System Development, 2001-05-05. Huang, Acero & Hon.  
+[2] Propagation of sound, Don't Memorise Channel [링크](https://youtu.be/WqnF-VPfGPw)
